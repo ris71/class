@@ -1,0 +1,16 @@
+
+a{
+    text-decoration-line:underline;
+    text-decoration:none;
+    text-transform:none;
+    text-shadow:0px  0px  2px red;0 0 5px blue;0 0 4px darkgreen;
+   font-family:Merriweather,cursive;
+}
+p{
+    text-indent:50px;
+    word-spacing:5px;
+    line-height:1.5;
+    white-space:pre-line;
+    font-family: Borel,cursive;
+}
+
